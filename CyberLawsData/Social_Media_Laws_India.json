@@ -1,0 +1,112 @@
+[
+  {
+    "id": "social_ind_001",
+    "title": "IT Rules 2021 – Obligations of significant social media intermediaries",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["it_rules_2021", "ssmi", "social_media", "intermediary", "grievance_officer", "india"],
+    "language": "en",
+    "date": "2021-02-25",
+    "content": "Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021. Platforms with more than 50 lakh registered users in India are classified as Significant Social Media Intermediaries (SSMIs) and must comply with additional obligations beyond ordinary intermediaries. SSMIs must appoint a Chief Compliance Officer, a Nodal Contact Person for law enforcement coordination, and a Resident Grievance Officer — all based in India. The Grievance Officer must acknowledge user complaints within 24 hours and resolve them within 15 days. Illegal content including cyberbullying, harassment, non-consensual intimate images, and hate speech must be removed within 36 hours of receiving a government or court order. Monthly compliance reports must be published. Failure to comply removes safe harbour protection under Section 79 of the IT Act, making the platform liable for third-party content."
+  },
+  {
+    "id": "social_ind_002",
+    "title": "IT Rules 2021 – Content removal and traceability obligations",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["it_rules_2021", "content_removal", "traceability", "first_originator", "social_media", "india"],
+    "language": "en",
+    "date": "2021-02-25",
+    "content": "IT Rules 2021 – Content removal obligations and traceability requirements for social media intermediaries. Intermediaries must remove unlawful content within 36 hours of receiving a government or court order. Messaging platforms may be required to identify the first originator of a message in cases related to national security, public order, or offences related to rape, child sexual abuse material, or incitement to violence. This traceability requirement has been a subject of legal challenge as it raises concerns about end-to-end encryption and user privacy. Platforms enabling anonymous or pseudonymous communication that is used for disseminating misinformation, terrorism content, or CSAM are subject to these obligations. Non-compliance can result in removal of safe harbour protection under Section 79 of the IT Act."
+  },
+  {
+    "id": "social_ind_003",
+    "title": "IT Rules 2023 Amendment – Grievance Appellate Committee",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["it_rules_2023", "gac", "grievance_appellate", "content_moderation", "appeal", "india"],
+    "language": "en",
+    "date": "2023-03-06",
+    "content": "IT (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2023 – Grievance Appellate Committee (GAC). If a user is dissatisfied with the content moderation decision of a social media platform, such as a refusal to remove reported illegal content or wrongful removal of user's lawful content, they may appeal to the Grievance Appellate Committee established by the Central Government. The GAC must dispose of appeals within 30 calendar days. Decisions of the GAC are binding on the platforms. Users must first exhaust the platform's internal grievance mechanism before appealing to the GAC. This applies to all significant social media intermediaries including Facebook, Instagram, YouTube, and WhatsApp."
+  },
+  {
+    "id": "social_ind_004",
+    "title": "IT Act Section 69A – Government power to block social media content",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["section69A", "content_blocking", "social_media", "government_power", "national_security", "india"],
+    "language": "en",
+    "date": "2008-12-27",
+    "content": "Section 69A of the Information Technology Act, 2000 – Government power to block public access to social media content. The Central Government may direct any intermediary or social media platform to block access to specific content in the interest of sovereignty and integrity of India, defence of India, security of the State, friendly relations with foreign States, or public order. This section has been used to block social media accounts, posts, hashtags, and entire platforms when deemed necessary. Courts have upheld the government's power under Section 69A but have stressed that such actions must comply with the Blocking Rules, 2009 and must be proportionate and reasonable. Non-compliance by platforms attracts imprisonment up to 7 years and fine."
+  },
+  {
+    "id": "social_ind_005",
+    "title": "Article 19(1)(a) and 19(2) – Constitutional framework for social media free speech",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["article19", "free_speech", "constitution", "social_media", "reasonable_restrictions", "india"],
+    "language": "en",
+    "date": "1950-01-26",
+    "content": "Article 19(1)(a) of the Constitution of India guarantees citizens the right to freedom of speech and expression. Social media has been recognised as an extension of this fundamental right, as it provides a digital platform for individuals to express opinions, share ideas, and participate in public discourse. However, Article 19(2) allows the State to impose reasonable restrictions in the interests of sovereignty and integrity of India, security of the State, friendly relations with foreign States, public order, decency or morality, contempt of court, defamation, or incitement to an offence. Social media laws in India aim to balance free speech with these constitutional limitations. The Supreme Court in Shreya Singhal v. Union of India (2015) clarified that restrictions on online speech must meet the same constitutional standards as restrictions on physical speech."
+  },
+  {
+    "id": "social_ind_006",
+    "title": "Shreya Singhal v. Union of India (2015) – Supreme Court judgment on online free speech",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["shreya_singhal", "supreme_court", "section66A", "free_speech", "landmark_judgment", "india"],
+    "language": "en",
+    "date": "2015-03-24",
+    "content": "Shreya Singhal v. Union of India (2015) – Landmark Supreme Court judgment on online free speech. The Supreme Court of India struck down Section 66A of the IT Act as unconstitutional for being vague and overbroad and violating the fundamental right to freedom of speech and expression under Article 19(1)(a). The Court held that the words grossly offensive and menacing used in Section 66A had no definite legal meaning and could be used to curtail any speech the authorities disagreed with. The judgment is the foundational precedent for online free speech jurisprudence in India and established that internet speech is subject to the same constitutional protection and limitations as offline speech. Online harassment is now addressed through specific and constitutionally valid provisions of the IT Act and BNS."
+  },
+  {
+    "id": "social_ind_007",
+    "title": "Justice K.S. Puttaswamy v. Union of India (2017) – Right to privacy as fundamental right",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["puttaswamy", "privacy", "fundamental_right", "supreme_court", "data_protection", "social_media", "india"],
+    "language": "en",
+    "date": "2017-08-24",
+    "content": "Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) – Nine-judge Constitution Bench of the Supreme Court unanimously held that the right to privacy is a fundamental right under the Constitution of India, protected under Articles 14, 19 and 21. This landmark judgment significantly impacts how cyber crime laws, social media regulations, and data protection laws are interpreted and applied. It established that collection and processing of personal data by social media platforms and government agencies must comply with the principles of legality, necessity, and proportionality. The judgment formed the constitutional basis for the Digital Personal Data Protection Act, 2023 and strengthened the grounds for challenging privacy violations online."
+  },
+  {
+    "id": "social_ind_008",
+    "title": "POCSO Act 2012 – Protection of children from online sexual exploitation",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["pocso", "child_protection", "online_grooming", "csam", "social_media", "india"],
+    "language": "en",
+    "date": "2012-06-19",
+    "content": "Protection of Children from Sexual Offences (POCSO) Act, 2012 – Applied to online sexual exploitation of children. The POCSO Act protects children under 18 years from sexual assault, sexual harassment, and pornography, and provides for special courts for speedy trial. In the context of social media, POCSO applies to online grooming of children through social media platforms, gaming sites, and chat apps; sharing, downloading, or storing child sexual abuse material (CSAM); inducing children into online relationships for sexually explicit purposes; and transmitting explicit content to or about children. Social media platforms are required to report CSAM to NCMEC CyberTipline and remove such content within 24 hours of identification. Punishment ranges from imprisonment up to 5 years on first conviction to 7 to 10 years and even life imprisonment for aggravated offences. Ministry: Ministry of Women and Child Development."
+  },
+  {
+    "id": "social_ind_009",
+    "title": "Digital Personal Data Protection Act 2023 – Social media platform obligations",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["dpdp_2023", "data_protection", "social_media", "consent", "user_rights", "india"],
+    "language": "en",
+    "date": "2023-08-11",
+    "content": "Digital Personal Data Protection Act, 2023 and its application to social media platforms. Social media platforms operating in India are Data Fiduciaries under the DPDP Act and must obtain free, specific, informed, unconditional, and unambiguous consent before collecting or processing users' personal data. Platforms must implement data minimisation, purpose limitation, and storage limitation. Users have rights including right to access their data, right to correction and erasure, right to grievance redressal, and right to nominate a person to exercise rights in case of death or incapacity. Data breaches must be reported to the Data Protection Board. Platforms face penalties up to Rs 250 crore for violations. Platforms must not track users across third-party websites without explicit consent. The Act also places special obligations for protection of personal data of children under 18 years."
+  },
+  {
+    "id": "social_ind_010",
+    "title": "WhatsApp misinformation and fake news – Legal framework",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["fake_news", "misinformation", "whatsapp", "social_media", "public_mischief", "india"],
+    "language": "en",
+    "date": "2023-12-25",
+    "content": "Legal framework governing fake news and misinformation on social media and messaging platforms in India. The 2018 WhatsApp lynching incidents demonstrated the serious real-world dangers of viral false information. While India does not have a standalone fake news law, authorities rely on multiple provisions. Section 505 of the Indian Penal Code (now Bharatiya Nyaya Sanhita Section 353) criminalises statements conducing to public mischief with intent to cause fear or alarm to the public that is likely to induce commission of an offence. Section 54 of the Disaster Management Act, 2005 punishes spreading of false information during disasters with imprisonment up to 1 year. IT Act Section 69A enables government to direct blocking of misinformation during public emergencies. The Ministry of Electronics and Information Technology has issued advisories requiring platforms to label AI-generated content and remove violating deepfakes within 24 hours. Press Information Bureau's PIB Fact Check unit flags government-related misinformation for platform removal."
+  }
+]
