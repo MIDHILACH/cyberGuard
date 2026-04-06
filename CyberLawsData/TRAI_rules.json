@@ -1,0 +1,123 @@
+[
+  {
+    "id": "telecom_001",
+    "title": "The Telecommunications Act, 2023",
+    "source": "website",
+    "url": "https://dot.gov.in/",
+    "category": "cyber_law",
+    "tags": ["telecommunications", "telecom_act", "2023", "dot", "spectrum", "india"],
+    "language": "en",
+    "date": "2023-12-24",
+    "content": "The Telecommunications Act, 2023. An Act to consolidate and amend the law relating to development, expansion and operation of telecommunication services and telecommunication networks, and assignment of spectrum, and for matters connected therewith or incidental thereto. This Act replaces the Indian Telegraph Act, 1885 and the Indian Wireless Telegraphy Act, 1933 as the primary legislation governing telecom in India. It establishes regulatory and licensing framework for telecom service providers, addresses spectrum management, right of way for telecom infrastructure, and includes cybersecurity obligations on telecom entities. Ministry: Ministry of Communications."
+  },
+  {
+    "id": "telecom_002",
+    "title": "Digital Personal Data Protection Act, 2023",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["dpdp", "data_protection", "personal_data", "privacy", "2023", "india"],
+    "language": "en",
+    "date": "2023-08-11",
+    "content": "The Digital Personal Data Protection Act, 2023. An Act to provide for the processing of digital personal data in a manner that recognises both the right of individuals to protect their personal data and the need to process such personal data for lawful purposes, and for matters connected therewith or incidental thereto. Key principles include consent-based data processing, data minimisation, user rights such as right to access, correction, and erasure of data, and penalties for data breaches up to Rs 250 crore depending on the organisation's turnover. Social media platforms and telecom companies operating in India must comply. Ministry: Ministry of Communications / Ministry of Electronics and Information Technology."
+  },
+  {
+    "id": "telecom_003",
+    "title": "TRAI Act, 1997 – Telecom Regulatory Authority of India",
+    "source": "website",
+    "url": "https://trai.gov.in/",
+    "category": "cyber_law",
+    "tags": ["trai", "telecom_regulation", "consumer_protection", "1997", "india"],
+    "language": "en",
+    "date": "1997-01-25",
+    "content": "The Telecom Regulatory Authority of India Act, 1997. An Act to provide for the establishment of the Telecom Regulatory Authority of India (TRAI) to regulate telecom services, adjudicate disputes, and protect consumer interests. TRAI issues directions and regulations on tariffs, quality of service, unsolicited commercial communications, and interconnection. TRAI's powers are invoked in cases of telecom-based cyber fraud including spam calls, phishing SMS, SIM swap fraud, and misuse of telecom infrastructure for financial crimes. Consumers can file complaints with TRAI against service providers through the helpline 1909. Ministry: Ministry of Communications."
+  },
+  {
+    "id": "telecom_004",
+    "title": "The Telecom Regulatory Authority of India (Amendment) Act, 2000",
+    "source": "website",
+    "url": "https://trai.gov.in/",
+    "category": "cyber_law",
+    "tags": ["trai_amendment", "telecom", "2000", "regulation", "india"],
+    "language": "en",
+    "date": "2000-01-01",
+    "content": "The Telecom Regulatory Authority of India (Amendment) Act, 2000. An Amendment Act to the TRAI Act, 1997 that restructured and strengthened the Telecom Regulatory Authority of India. The amendment separated regulatory and dispute settlement functions of TRAI, creating the Telecom Disputes Settlement and Appellate Tribunal (TDSAT). TDSAT adjudicates disputes between licensor and licensee, between two or more service providers, and between a service provider and a group of consumers. This amendment is significant in telecom-related cybercrime disputes involving service providers. Ministry: Ministry of Communications."
+  },
+  {
+    "id": "telecom_005",
+    "title": "The Telecom Regulatory Authority of India (Amendment) Act, 2014",
+    "source": "website",
+    "url": "https://trai.gov.in/",
+    "category": "cyber_law",
+    "tags": ["trai_amendment", "telecom", "2014", "regulation", "india"],
+    "language": "en",
+    "date": "2014-01-01",
+    "content": "The Telecom Regulatory Authority of India (Amendment) Act, 2014. An Amendment Act further refining the powers and jurisdiction of TRAI and TDSAT. The amendment clarified the scope of TRAI's recommendatory and regulatory powers and strengthened consumer protection mechanisms. Under this framework, TRAI has the authority to direct telecom operators to block or restrict services being misused for cybercrime purposes including fraudulent calls, smishing, and vishing attacks. Ministry: Ministry of Communications."
+  },
+  {
+    "id": "telecom_006",
+    "title": "Indian Telegraph Act, 1885",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["telegraph", "telecom", "communication", "1885", "india"],
+    "language": "en",
+    "date": "1885-07-22",
+    "content": "The Indian Telegraph Act, 1885. An Act to amend the law relating to telegraphs in India. This was the principal telecom law of India for over a century, governing telegraph and subsequently telephone and internet communication. It gave the government exclusive privilege over establishment, maintenance and operation of telegraphs. Section 5 empowered the government to intercept messages in the interest of public safety or national security. It was largely superseded by the Telecommunications Act, 2023 for new matters but remains historically and legally relevant as predecessor legislation for interception and surveillance jurisprudence. Ministry: Ministry of Communications."
+  },
+  {
+    "id": "telecom_007",
+    "title": "The Indian Wireless Telegraphy Act, 1933",
+    "source": "website",
+    "url": "https://i4c.mha.gov.in/acts-and-rules.aspx",
+    "category": "cyber_law",
+    "tags": ["wireless", "telegraphy", "spectrum", "1933", "telecom", "india"],
+    "language": "en",
+    "date": "1933-01-01",
+    "content": "The Indian Wireless Telegraphy Act, 1933. An Act to regulate possession of wireless telegraphy apparatus. This Act required all persons possessing wireless telegraphy apparatus to obtain a licence from the government. Unlicensed possession of radio frequency equipment was a criminal offence. In the context of cybercrime, this Act is relevant to cases involving illegal wireless surveillance equipment, unauthorised signal interception, and jamming devices used in criminal operations. Superseded in most aspects by the Telecommunications Act, 2023. Ministry: Ministry of Communications."
+  },
+  {
+    "id": "telecom_008",
+    "title": "National Telecom Policy, 1994",
+    "source": "website",
+    "url": "https://dot.gov.in/",
+    "category": "cyber_law",
+    "tags": ["ntp_1994", "telecom_policy", "liberalisation", "india"],
+    "language": "en",
+    "date": "1994-01-01",
+    "content": "National Telecom Policy, 1994. India's first comprehensive telecom policy that set the direction for gradual privatisation and liberalisation of the telecom sector. The policy laid the groundwork for expansion of telephone services, introduction of private sector participation, and eventual development of internet infrastructure in India. The infrastructure built under this policy subsequently became the foundation for internet-based commerce, communication, and digital services — the very services now governed by cyber law. Ministry: Ministry of Communications and Information Technology."
+  },
+  {
+    "id": "telecom_009",
+    "title": "New Telecom Policy, 1999",
+    "source": "website",
+    "url": "https://dot.gov.in/",
+    "category": "cyber_law",
+    "tags": ["ntp_1999", "telecom_policy", "internet", "isp", "india"],
+    "language": "en",
+    "date": "1999-01-01",
+    "content": "New Telecom Policy, 1999. A revised national telecom policy introduced to address the shortcomings of NTP 1994, allowing unlimited private sector entry in telecom services. The policy introduced revenue sharing licensing regime and facilitated growth of Internet Service Providers (ISPs) in India, directly enabling widespread internet access. The expansion of internet access under NTP 1999 led to the need for cyber legislation, culminating in the Information Technology Act, 2000. ISP licensing and obligations under this policy framework are relevant in cybercrime investigations involving internet service records and traffic logs. Ministry: Ministry of Communications."
+  },
+  {
+    "id": "telecom_010",
+    "title": "Broadband Policy, 2004",
+    "source": "website",
+    "url": "https://dot.gov.in/",
+    "category": "cyber_law",
+    "tags": ["broadband_policy", "internet", "2004", "connectivity", "india"],
+    "language": "en",
+    "date": "2004-01-01",
+    "content": "Broadband Policy, 2004. India's first dedicated broadband policy that defined broadband, set rollout targets, and created the framework for high-speed internet infrastructure. The policy enabled mass internet adoption and broadband penetration across urban and subsequently rural India. This policy-driven internet expansion directly correlates with the rise in cyber crimes in India. Under this policy, broadband providers are classified as internet service providers under the IT Act and are subject to obligations under Section 67C (preservation of information by intermediaries) and CERT-In directions regarding log retention and incident reporting. Ministry: Ministry of Communications."
+  },
+  {
+    "id": "telecom_011",
+    "title": "National Telecom Policy, 2012",
+    "source": "website",
+    "url": "https://dot.gov.in/",
+    "category": "cyber_law",
+    "tags": ["ntp_2012", "telecom_policy", "broadband", "security", "india"],
+    "language": "en",
+    "date": "2012-01-01",
+    "content": "National Telecom Policy, 2012. A comprehensive policy for the decade covering broadband expansion, spectrum management, rural connectivity, and security of telecom infrastructure. The policy included explicit provisions on cybersecurity of telecom networks, mandating network security standards and audit requirements for telecom service providers. It recognised the critical role of telecom networks in national security and prescribed safeguards against telecom-based cyberattacks. The policy also addressed lawful interception requirements for telecom operators cooperating with law enforcement in cybercrime investigations. Ministry: Ministry of Communications and Information Technology."
+  }
+]
